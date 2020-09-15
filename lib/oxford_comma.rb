@@ -1,5 +1,5 @@
 def oxford_comma(array)
 
 end
-[derp, terp, twerp].join
+case array.length
 end
